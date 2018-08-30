@@ -35,6 +35,8 @@
 #*.sqlproj   merge=binary
 #*.wwaproj   merge=binary
 
+*.c crlf diff
+
 ###############################################################################
 # behavior for image files
 #
